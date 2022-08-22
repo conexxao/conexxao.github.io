@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Vagas Segundo 22 de Agosto"
+title:  "Vagas Segunda 22 de Agosto"
 date:   2022-08-22 16:00:20 -0300
 categories: vagas
 gallery:
