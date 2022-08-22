@@ -1,0 +1,39 @@
+---
+layout: archive
+title:  "Vagas Segundo 22 de Agosto"
+date:   2022-08-22 16:00:20 -0300
+categories: vagas
+gallery:
+  - url: /assets/images/crie-solucoes-assistente-departamento-pessoal.jpeg
+    image_path: /assets/images/crie-solucoes-assistente-departamento-pessoal.jpeg
+    alt: "Vaga para assistente de departamento pessoal na Crie Soluções"
+    title: "Assistente de departamento pessoal"
+
+  - url: /assets/images/cris-matias-analista-financeiro-junior.jpeg
+    image_path: /assets/images/cris-matias-analista-financeiro-junior.jpeg
+    alt: "Vaga para Analista financeiro Junior na Cris Matias"
+    title: "Analista financeiro Jr"
+
+  - url: /assets/images/dois-sabores-salgadeiro-confeiteiro.jpeg
+    image_path: /assets/images/dois-sabores-salgadeiro-confeiteiro.jpeg
+    alt: "Vaga para salgadeiro ou confeiterio na Dois sabores"
+    title: "Salgadeiro ou Confeiteiro"
+
+  - url: /assets/images/atracao-consultoria-auxiliar-administrativo.jpeg
+    image_path: /assets/images/atracao-consultoria-auxiliar-administrativo.jpeg
+    alt: "Vaga para Auxiliar adminstrativo na Atração consultoria"
+    title: "Auxiliar adminstrativo"
+
+  - url: /assets/images/camaleoes-auxiliar-loja.jpeg
+    image_path: /assets/images/camaleoes-auxiliar-loja.jpeg
+    alt: "Vaga para auxiliar de loja na Camaleões"
+    title: "Auxiliar de loja"
+
+  - url: /assets/images/grupo-classic-operador-caixa.jpeg
+    image_path: /assets/images/grupo-classic-operador-caixa.jpeg
+    alt: "Vaga para operador de caixa na Grupo Classic"
+    title: "Operador(A) de caixa"
+---
+Olhe as vagas que encontramos pra você!
+
+{% include gallery %}
