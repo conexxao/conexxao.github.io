@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Voluntarios
+title: Voluntários
 permalink: /voluntarios/
 gallery:
   - url: /assets/images/voluntarios/Aranai.jpeg
@@ -37,6 +37,6 @@ gallery:
     title: "Jenifer"
 ---
 
-Os voluntarios que dão vida a esse projeto
+Os voluntários que dão vida a esse projeto
 
 {% include gallery %}

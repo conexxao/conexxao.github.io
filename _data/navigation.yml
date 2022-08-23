@@ -2,7 +2,7 @@
 main:
   - title: "Sobre"
     url: /sobre/
-  - title: "Voluntarios"
+  - title: "Voluntários"
     url: /voluntarios/
   - title: "Consultores"
     url: /consultores/
